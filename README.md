@@ -11,9 +11,6 @@ Java Enterprise Software Engineer
 
 <p align='left'>
    <a href="[https://github-readme-stats.vercel.app/api?username=Ethiqque&show_icons=true&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Ethiqque}&theme={theme_name}&exclude={exclude}
-)"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=Ethiqque&show_icons=true&count_private=true"/></a>
 </p> 
 ### Key points
 *
