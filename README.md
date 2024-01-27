@@ -18,9 +18,10 @@ Java Enterprise Software Engineer
 
 ## 🛠 Technical Stack
 *   Java/Groovy languages
-*   PostgreSQL, Flyway, MySQL
+*   PostgreSQL, Flyway, MySQL, Docker
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud 
 *   GitHub/GitLab
+*   Gradle/Maven
 
 ### My opensource projects
 *
