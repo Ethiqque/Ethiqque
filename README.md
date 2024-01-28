@@ -15,7 +15,8 @@ Java Enterprise Software Engineer
 *   Gradle/Maven
 
 ### My opensource projects
-*
+* [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+* [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
 *
 *
 *
