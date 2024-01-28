@@ -1,17 +1,6 @@
 # Hi, I'm Daniel 👋
 Java Enterprise Software Engineer
 
-<p align='left'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Ethiqque&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=Ethiqque&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/Ethiqque/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethiqque&layout=compact"/></a>
-</p>
-
-<p align='left'>
-   <a href="[https://github-readme-stats.vercel.app/api?username=Ethiqque&show_icons=true&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Ethiqque}&theme={theme_name}&exclude={exclude}
-</p> 
 ### Key points
 *
 *   
