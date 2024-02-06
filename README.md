@@ -18,7 +18,7 @@ Java Enterprise Software Engineer
 * [Pastebin](https://github.com/Ethiqque/Pastebin) - Will be edited in future
 * [Web Crawler](https://github.com/Ethiqque/Web-Crawler) - Will be edited in future
 * [Emergency-Notification-System](https://github.com/Ethiqque/Emergency-Notification-System) - Will be edited in future
-*
+* [Book ledger for library](https://github.com/Ethiqque/Book-Ledger) - A system for monitoring book checkouts.
 *
 
 
