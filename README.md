@@ -1,5 +1,6 @@
 # Hi, I'm Daniel 👋
-Java Enterprise Software Engineer
+My name is Daniel and I'm software engineer
+
 
 ### Key points
 *
