@@ -10,8 +10,8 @@ My name is Daniel and I'm software engineer
 
 ## 🛠 Technical Stack
 *   Java/Groovy languages
-*   PostgreSQL, Flyway, MySQL, Docker
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud 
+*   PostgreSQL, Liquibase, MySQL, Docker
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   GitHub/GitLab
 *   Gradle/Maven
 
