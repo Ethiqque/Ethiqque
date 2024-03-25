@@ -1,13 +1,6 @@
 # Hi, I'm Daniel 👋
 My name is Daniel and I'm software engineer
 
-
-### Key points
-*
-*   
-*   
-*   
-
 ## 🛠 Technical Stack
 *   Java/Groovy languages
 *   PostgreSQL, Liquibase, MySQL, Docker
