@@ -1,5 +1,17 @@
 # Hi, I'm Daniel 👋
-My name is Daniel and I'm software engineer
+Hello! I am experienced java software developer.
+
+I am interested and eager to participate in the development of large-scale projects with microservices. It is very important for me to be in constant contact with the team, to make decisions aimed at creating a quality product.
+
+I would be happy to discuss your professional questions and suggestions.
+
+————————————————————
+
+My contact:
+
+Telegram: @ethiqque
+E-mail: danielpyld.work@gmail.com
+Github: https://github.com/Ethiqque
 
 ## 🛠 Technical Stack
 *   Java/Groovy languages
