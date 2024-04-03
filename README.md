@@ -1,17 +1,11 @@
 # Hi, I'm Daniel 👋
-I am experienced java software developer.
-
-I am interested and eager to participate in the development of large-scale projects with microservices. It is very important for me to be in constant contact with the team, to make decisions aimed at creating a quality product.
-
-I would be happy to discuss your professional questions and suggestions.
+I am experienced java software developer. Interested and eager to participate in the development of large-scale projects with microservices. It is very important for me to be in constant contact with the team, to make decisions aimed at creating a quality product. I would be happy to discuss your professional questions and suggestions.
 
 My contact:
-
-Telegram: @ethiqque
-
-E-mail: danielpyld.work@gmail.com
-
-Github: https://github.com/Ethiqque
+- Telegram: @ethiqque
+- E-mail: danielpyld.work@gmail.com
+- Github: https://github.com/Ethiqque
+- LinkedIn: https://www.linkedin.com/in/daniel-pyld-580619266/
 
 ## 🛠 Technical Stack
 *   Java/Groovy languages
