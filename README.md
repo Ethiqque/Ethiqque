@@ -3,9 +3,10 @@ I am experienced java software developer. Interested and eager to participate in
 
 ## 🛠 Technical Stack
 *   Java/Groovy languages
-*   PostgreSQL, Liquibase, MySQL, Docker
-*   Spring Framework
-*   GitHub/GitLab
+*   PostgreSQL, Oracle DB, Liquibase, MySQL, MongoDB,
+*   Spring Boot, Spring Data, Spring MVC, Spring Security
+*   Apache Kafka, Docker, Jenkins, Cassandra, AWS, Amazon S3, Elastic,
+*   JUnit, Mockito
 *   Gradle/Maven
 
 ### My opensource projects
