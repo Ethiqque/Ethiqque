@@ -14,7 +14,7 @@ I am experienced java software developer. Interested and eager to participate in
 * [Web Crawler](https://github.com/Ethiqque/Web-Crawler) - Will be edited in future
 * [Emergency-Notification-System](https://github.com/Ethiqque/Emergency-Notification-System) - Will be edited in future
 * [Book ledger for library](https://github.com/Ethiqque/Book-Ledger) - A web system for monitoring book checkouts.
-* [Payment Service](https://github.com/Ethiqque/Boo) - A web system for monitoring book checkouts.
+* [Payment Service](https://github.com/Ethiqque/Payment-Service) - Payment Service.
 
 
 
