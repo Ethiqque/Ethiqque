@@ -5,7 +5,7 @@ I am experienced java software developer. Interested and eager to participate in
 *   Java/Groovy languages
 *   PostgreSQL, Oracle DB, Liquibase, MySQL, MongoDB,
 *   Spring Boot, Spring Data, Spring MVC, Spring Security
-*   Apache Kafka, Docker, Jenkins, Cassandra, AWS, Amazon S3, Elastic,
+*   Apache Kafka, Docker, Jenkins, Cassandra, AWS, Amazon S3, Elastic Search
 *   JUnit, Mockito
 *   Gradle/Maven
 
