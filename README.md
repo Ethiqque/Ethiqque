@@ -2,7 +2,7 @@
 I am experienced java software developer. Interested and eager to participate in the development of large-scale projects with microservices. It is very important for me to be in constant contact with the team, to make decisions aimed at creating a quality product. I would be happy to discuss your professional questions and suggestions.
 
 ## 🛠 Technical Stack
-*   Java/Groovy languages
+*   Java/Groovy/Python languages
 *   PostgreSQL, Oracle DB, Liquibase, MySQL, MongoDB,
 *   Spring Boot, Spring Data, Spring MVC, Spring Security
 *   Apache Kafka, Docker, Jenkins, Cassandra, AWS, Amazon S3, Elastic Search, Redis
