@@ -13,7 +13,7 @@ I am experienced java software developer. Interested and eager to participate in
 * Search & Analytics: Elasticsearch
 * Testing: JUnit, Mockito
 * API Development: Swagger API, REST APIs
-Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Development, Time Management, Communication Skills
+* Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Development, Time Management, Communication Skills
 
 ### My opensource projects
 * [User Service](https://github.com/CorporationX/user_service/tree/basilisk-master-bc4) - A comprehensive service managing user information, authentication, and authorization.
