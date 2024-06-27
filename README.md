@@ -2,12 +2,18 @@
 I am experienced java software developer. Interested and eager to participate in the development of large-scale projects with microservices. It is very important for me to be in constant contact with the team, to make decisions aimed at creating a quality product. I would be happy to discuss your professional questions and suggestions.
 
 ## 🛠 Technical Stack
-*   Java/Groovy/Python languages
-*   PostgreSQL, Oracle DB, Liquibase, MySQL, MongoDB,
-*   Spring Boot, Spring Data, Spring MVC, Spring Security
-*   Apache Kafka, Docker, Jenkins, Cassandra, AWS, Amazon S3, Elastic Search, Redis
-*   JUnit, Mockito
-*   Gradle/Maven
+* Languages: Java, Groovy, Python
+* Databases: PostgreSQL, Oracle DB, MySQL, MongoDB, Cassandra, Redis
+* Database Tools: Liquibase
+* Frameworks: Spring Boot, Spring Data, Spring MVC, Spring Security
+* Messaging & Streaming: Apache Kafka
+* Cloud Platforms: AWS, Google Cloud Platform (GCP), Amazon S3
+* Containerization & Orchestration: Docker, Kubernetes
+* CI/CD: Jenkins, Gradle, Maven
+* Search & Analytics: Elasticsearch
+* Testing: JUnit, Mockito
+* API Development: Swagger API, REST APIs
+Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Development, Time Management, Communication Skills
 
 ### My opensource projects
 * [User Service](https://github.com/CorporationX/user_service/tree/basilisk-master-bc4) - A comprehensive service managing user information, authentication, and authorization.
