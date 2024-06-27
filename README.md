@@ -8,12 +8,12 @@ I am experienced java software developer. Interested and eager to participate in
 * Frameworks: Spring Boot, Spring Data, Spring MVC, Spring Security
 * Messaging & Streaming: Apache Kafka
 * Cloud Platforms: AWS, Google Cloud Platform (GCP), Amazon S3
-* Containerization & Orchestration: Docker, Kubernetes
+* Containerization & Orchestration: Docker, Kubernetes(K8)
 * CI/CD: Jenkins, Gradle, Maven
 * Search & Analytics: Elasticsearch
 * Testing: JUnit, Mockito
 * API Development: Swagger API, REST APIs
-* Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Development, Time Management, Communication Skills
+* Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Architecture Development,
 
 ### My opensource projects
 * [User Service](https://github.com/CorporationX/user_service/tree/basilisk-master-bc4) - A comprehensive service managing user information, authentication, and authorization.
