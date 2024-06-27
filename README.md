@@ -24,6 +24,3 @@ I am experienced java software developer. Interested and eager to participate in
 * [Achievement Service](https://github.com/CorporationX/achievement_service/tree/basilisk-master-bc4) - Manages and tracks user achievements and milestones.
 * [Notification Service](https://github.com/CorporationX/notification_service/tree/basilisk-master-bc4) - Handles the delivery of various notifications to users via different channels.
 * [Account Service](https://github.com/CorporationX/account_service/tree/basilisk-master-bc4) - Manages account information, settings, and related functionalities for users.
-
-
-
