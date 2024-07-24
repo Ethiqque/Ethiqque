@@ -13,7 +13,7 @@ I am an experienced Java software developer with a strong passion for participat
 * **Messaging & Streaming:** Apache Kafka
 * **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3
 * **Containerization & Orchestration:** Docker
-* **CI/CD:** Jenkins, Gradle, Maven
+* **CI/CD:** Gradle, Maven
 * **Search & Analytics:** Elasticsearch
 * **Testing:** JUnit, Mockito
 * **API Development:** Swagger API, REST APIs
