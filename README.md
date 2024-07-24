@@ -12,7 +12,7 @@ I am an experienced Java software developer with a strong passion for participat
 * **Frameworks:** Spring Boot, Spring Data, Spring MVC, Spring Security
 * **Messaging & Streaming:** Apache Kafka
 * **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3
-* **Containerization & Orchestration:** Docker, Kubernetes (K8)
+* **Containerization & Orchestration:** Docker
 * **CI/CD:** Jenkins, Gradle, Maven
 * **Search & Analytics:** Elasticsearch
 * **Testing:** JUnit, Mockito
