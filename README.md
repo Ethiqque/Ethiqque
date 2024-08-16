@@ -11,7 +11,7 @@ I am an experienced Java software developer with a strong passion for participat
 * **Database Tools:** Liquibase
 * **Frameworks:** Spring Boot, Spring Data, Spring MVC, Spring Security
 * **Messaging & Streaming:** Apache Kafka
-* **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3
+* **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3, Azure
 * **Containerization & Orchestration:** Docker
 * **CI/CD:** Gradle, Maven
 * **Search & Analytics:** Elasticsearch
