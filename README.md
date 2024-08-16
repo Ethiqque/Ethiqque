@@ -3,7 +3,7 @@
 I am an experienced Java software developer with a strong passion for participating in the development of large-scale projects using microservices architecture. Collaboration and communication with the team are crucial to me, ensuring that we make informed decisions aimed at delivering high-quality products. I am eager to discuss any professional questions or suggestions you may have.
 
 ## Education
-* **Tallinn Techical College** [Enterprise Software Engineering] - Bachelor's degree
+* **Tallinn Techical University** [Enterprise Software Engineering] - Bachelor's degree
 
 ## 🛠 Technical Stack
 * **Languages:** Java, Groovy, Python
