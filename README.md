@@ -16,7 +16,7 @@ I am an experienced Java software developer with a strong passion for participat
 * **CI/CD:** Gradle, Maven
 * **Search & Analytics:** Elasticsearch
 * **Testing:** JUnit, Mockito
-* **API Development:** Swagger API, REST APIs
+* **API Development:** API, REST APIs
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies
 
 ### My Open Source Projects
