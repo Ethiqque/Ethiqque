@@ -14,7 +14,7 @@ I am an experienced Java software developer with a strong passion for participat
 * **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3, Azure
 * **Containerization & Orchestration:** Docker, Kubernetes (K8)
 * **CI/CD:** Gradle, Maven
-* **Search & Analytics:** Elasticsearch
+* **Search & Analytics:** Elasticsearch, Seach Algorithms
 * **Testing:** JUnit, Mockito
 * **API Development:** External API, REST APIs
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies
