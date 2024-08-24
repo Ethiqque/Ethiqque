@@ -2,6 +2,10 @@
 
 I am an experienced Java software developer with a strong passion for participating in the development of large-scale projects using microservices architecture. Collaboration and communication with the team are crucial to me, ensuring that we make informed decisions aimed at delivering high-quality products. I am eager to discuss any professional questions or suggestions you may have.
 
+[**Contacts**](https://linktr.ee/) |
+[**Resume**](https://docs.google.com/document/d/1OwpGlnEnWOXEXOBzFzFKwQuzIVzCsdbK0R6Sg8CVvgI/edit) |
+[**Calendly**](https://calendly.com/danielpyld-work/30min) 
+
 ## Education
 * **Tallinn Techical University** [Enterprise Software Engineering] - Bachelor's degree
 
