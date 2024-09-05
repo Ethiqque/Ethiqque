@@ -23,9 +23,9 @@ I am an experienced Java software developer with a strong passion for participat
 * **Testing:** JUnit, Mockito
 * **API Development:** External API, REST APIs
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization, Apache PDFBox
-
 ### My Open Source Projects
 * [**User Service**](https://github.com/CorporationX/user_service/tree/basilisk-master-bc4) - A comprehensive service managing user information, authentication, and authorization.
+* [**URL-Shortener Service**](https://github.com/CorporationX/url_shortener_service/tree/basilisk-master-bc4-ethiqque) - Service to convert long URLS with 30+ symbols to short URL with 4+ symbols
 * [**Project Service**](https://github.com/CorporationX/project_service/tree/basilisk-master-bc4) - Handles the creation, management, and collaboration of various projects.
 * [**Post Service**](https://github.com/CorporationX/post_service/tree/basilisk-master-bc4) - Facilitates the creation and management of user-generated posts and content.
 * [**Payment Service**](https://github.com/CorporationX/payment_service/tree/basilisk-master-bc4) - A web system for handling and monitoring financial transactions and book checkouts.
