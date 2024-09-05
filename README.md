@@ -7,7 +7,7 @@ I am an experienced Java software developer with a strong passion for participat
 [**Calendly**](https://calendly.com/danielpyld-work/30min) 
 
 ## Education
-* **Tallinn Techical University** [Enterprise Software Engineering] - Bachelor's degree
+* **Tallinn Techical University** [Institute of Computer Science] - Bachelor's degree
 
 ## 🛠 Technical Stack
 
