@@ -12,7 +12,7 @@ I am an experienced Java / JavaScript FullStack developer with a strong passion 
 ## 🛠 Technical Stack
 
 * **Languages:** Java, JavaScript, Python
-* **Databases:** PostgreSQL, Oracle DB, MySQL, MongoDB, Cassandra, Redis
+* **Databases:** PostgreSQL, Amazon S3, MySQL, MongoDB, Cassandra, Redis, Oracle DB
 * **Database Tools:** Liquibase
 * **Frameworks:** Spring Boot, React.js, Spring Data, Spring MVC, Spring Security, Hibernate
 * **Messaging & Streaming:** Apache Kafka
