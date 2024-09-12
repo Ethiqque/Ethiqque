@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-I am an experienced Java software developer with a strong passion for participating in the development of large-scale projects using microservices architecture. Collaboration and communication with the team are crucial to me, ensuring that we make informed decisions aimed at delivering high-quality products. I am eager to discuss any professional questions or suggestions you may have.
+I am an experienced Java / JavaScript FullStack developer with a strong passion for participating in the development of large-scale projects using microservices architecture. Collaboration and communication with the team are crucial to me, ensuring that we make informed decisions aimed at delivering high-quality products. I am eager to discuss any professional questions or suggestions you may have.
 
 [**Contacts**](https://linktr.ee/) |
 [**Resume**](https://docs.google.com/document/d/1OwpGlnEnWOXEXOBzFzFKwQuzIVzCsdbK0R6Sg8CVvgI/edit) |
@@ -11,10 +11,10 @@ I am an experienced Java software developer with a strong passion for participat
 
 ## 🛠 Technical Stack
 
-* **Languages:** Java, Groovy, Python
+* **Languages:** Java, JavaScript, Python
 * **Databases:** PostgreSQL, Oracle DB, MySQL, MongoDB, Cassandra, Redis
 * **Database Tools:** Liquibase
-* **Frameworks:** Spring Boot, Spring Data, Spring MVC, Spring Security, Hibernate
+* **Frameworks:** Spring Boot, React.js, Spring Data, Spring MVC, Spring Security, Hibernate
 * **Messaging & Streaming:** Apache Kafka
 * **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3, Azure
 * **Containerization & Orchestration:** Docker, Kubernetes (K8)
