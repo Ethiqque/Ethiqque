@@ -25,8 +25,8 @@ I am an experienced Java / JavaScript FullStack developer with a strong passion 
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization, Apache PDFBox
 ### My Open Source Projects
 * [**CorpX**](https://github.com/Ethiqque/CorporationX) - Social network for management and fundraising startups, offering a platform for to connect, share & collaborate for growth
-* [**Post Service**](https://github.com/CorporationX/post_service/tree/basilisk-master-bc4) - Facilitates the creation and management of user-generated posts and content
-* [**Payment Service**](https://github.com/CorporationX/payment_service/tree/basilisk-master-bc4) - A web system for handling and monitoring financial transactions and book checkouts.
 * [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) - A Comprehensive Financial Goal Management Platform
 * [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI) - Loads 100 city temperature using OpenWeatherMap API
 * [**RateLimitedCrpt**](https://github.com/Ethiqque/RateLimitedCrpt) - CrptApi Implementation for Chestny ZNAK API
+* [**Post Service**](https://github.com/CorporationX/post_service/tree/basilisk-master-bc4) - Facilitates the creation and management of user-generated posts and content
+* [**Payment Service**](https://github.com/CorporationX/payment_service/tree/basilisk-master-bc4) - Microservice for managing financial transactions and book checkouts.
