@@ -29,5 +29,4 @@ I am an experienced Java / JavaScript FullStack developer with a strong passion 
 * [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI) - Loads 100 city temperature using OpenWeatherMap API
 * [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) - Make large links with 40+ chars to 3-4 chars
 * [**RateLimitedCrpt**](https://github.com/Ethiqque/RateLimitedCrpt) - CrptApi Implementation for Chestny ZNAK API
-* [**Post Service**](https://github.com/CorporationX/post_service/tree/basilisk-master-bc4) - Facilitates the creation and management of user-generated posts and content
-* [**Payment Service**](https://github.com/CorporationX/payment_service/tree/basilisk-master-bc4) - Microservice for managing financial transactions and book checkouts
+* [**Nespresso Coffee**](https://github.com/Ethiqque/Nespresso-Coffee) - A online Marketplace for coffee retail (Backend)
