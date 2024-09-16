@@ -25,8 +25,8 @@ I am an experienced Java / JavaScript FullStack developer with a strong passion 
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization, Apache PDFBox
 ### My Open Source Projects
 * [**CorpX**](https://github.com/Ethiqque/CorporationX) - Social network for startup management and fundraising, enabling connection, sharing, and collaboration
-* [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) - A Comprehensive Financial Goal Management Platform
-* [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI) - Loads 100 city temperature using OpenWeatherMap API
-* [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) - Make large links with 40+ chars to 3-4 chars
-* [**RateLimitedCrpt**](https://github.com/Ethiqque/RateLimitedCrpt) - CrptApi Implementation for Chestny ZNAK API
-* [**Nespresso Coffee**](https://github.com/Ethiqque/Nespresso-Coffee) - A online Marketplace for coffee retail (Backend)
+* [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) (FullStack) - A Comprehensive Financial Goal Management Platform 
+* [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI) (FullStack) - Loads 100 city temperature using OpenWeatherMap API 
+* [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) (Backend) - Make large links with 40+ chars to 3-4 chars 
+* [**RateLimitedCrpt**](https://github.com/Ethiqque/RateLimitedCrpt) (Backend) - CrptApi Implementation for Chestny ZNAK API 
+* [**Nespresso Coffee**](https://github.com/Ethiqque/Nespresso-Coffee) (Backend) - A online Marketplace for coffee retail 
