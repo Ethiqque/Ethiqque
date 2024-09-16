@@ -24,7 +24,7 @@ I am an experienced Java / JavaScript FullStack developer with a strong passion 
 * **API Development:** External API, REST APIs
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization, Apache PDFBox
 ### My Open Source Projects
-* [**CorpX**](https://github.com/Ethiqque/CorporationX) - Social network for startup management and fundraising, enabling connection, sharing, and collaboration
+* [**CorpX**](https://github.com/Ethiqque/CorporationX) (Backend) - Social network for startup management and fundraising, enabling connection, sharing & collaboration
 * [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) (FullStack) - A Comprehensive Financial Goal Management Platform 
 * [**WeatherFetchAPI**](https://github.com/Ethiqque/WeatherFetchAPI) (FullStack) - Loads 100 city temperature using OpenWeatherMap API 
 * [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) (Backend) - Make large links with 40+ chars to 3-4 chars 
