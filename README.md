@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-I am an experienced Java / JavaScript FullStack developer with a strong passion for participating in the development of large-scale projects using microservices architecture. Collaboration and communication with the team are crucial to me, ensuring that we make informed decisions aimed at delivering high-quality products. I am eager to discuss any professional questions or suggestions you may have.
+I am Java / JavaScript FullStack Developer with experience in microservices & event-driven architecture (Spring, Kafka, Redis, Postgres, Kubernetes, Cloud, React.js), working in a team of over 10+ engineers on SCRUM methodology
 
 [**Contacts**](https://linktr.ee/ethiqque) |
 [**Resume**](https://docs.google.com/document/d/1OwpGlnEnWOXEXOBzFzFKwQuzIVzCsdbK0R6Sg8CVvgI/edit) |
