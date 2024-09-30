@@ -29,6 +29,7 @@ I am Java / JavaScript FullStack Developer with experience in microservices & ev
 * [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) (Backend) - Make large links with 40+ chars to 3-4 chars 
 * [**Nespresso Coffee**](https://github.com/Ethiqque/Nespresso-Coffee) (Backend) - A online Marketplace for coffee retail
 * [**InterviewTestTasks**](https://github.com/Ethiqque/InterviewTestTasks) - My job interview test tasks
+* [**FinancialReportsParcer**](https://github.com/Ethiqque/FinancialReportsParcer) - Parses Apple's financial PDF report and returns the data in JSON format
 
 ## Experience
 
