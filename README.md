@@ -26,10 +26,12 @@ I am Java / JavaScript FullStack Developer with experience in microservices & ev
 ### My Open Source Projects
 * [**CorpX**](https://github.com/Ethiqque/CorporationX/tree/main) (Backend) - Social network for startup management and fundraising, enabling connection, sharing & collaboration
 * [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) (FullStack) - A Comprehensive Financial Goal Management Platform 
-* [**URL-Shortener**](https://github.com/Ethiqque/URL-SHORTENER) (Backend) - Make large links with 40+ chars to 3-4 chars 
+* [**URL-Shortener**](https://github.com/CorporationX/url_shortener_service/tree/basilisk-master-bc4-ethiqque) (Backend) - Make large links with 40+ chars to 3-4 chars 
 * [**Nespresso Coffee**](https://github.com/Ethiqque/Nespresso-Coffee) (Backend) - A online Marketplace for coffee retail
 * [**InterviewTestTasks**](https://github.com/Ethiqque/InterviewTestTasks) - My job interview test tasks
 * [**FinancialReportsParcer**](https://github.com/Ethiqque/FinancialReportsParcer) - Parses Apple's financial PDF report and returns the data in JSON format
+* [**Pastebin**](https://github.com/Ethiqque/Pastebin) - Social network where users could post textBlocks & share links on them
+
 
 
 
