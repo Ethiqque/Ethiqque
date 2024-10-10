@@ -12,17 +12,18 @@ I am Java / JavaScript FullStack Developer with experience in microservices & ev
 ## 🛠 Technical Stack
 
 * **Languages:** Java, JavaScript, Python
-* **Databases:** PostgreSQL, Amazon S3, MySQL, MongoDB, Cassandra, Redis, Oracle DB
+* **Databases:** PostgreSQL, Amazon S3, MongoDB, Cassandra, Redis 
 * **Database Tools:** Liquibase
-* **Frameworks:** Spring Boot, React.js, Spring Data, Spring MVC, Spring Security, Hibernate
+* **Frameworks:** Spring Framework, React.js, Svelte.js, Hibernate
 * **Messaging & Streaming:** Apache Kafka
-* **Cloud Platforms:** AWS, Google Cloud Platform (GCP), Amazon S3, Azure
+* **Cloud Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 * **Containerization & Orchestration:** Docker, Kubernetes (K8)
-* **CI/CD:** Gradle, Maven
+* **CI/CD:** Gradle & Maven, Github Actions, Jenkins
 * **Search & Analytics:** Elasticsearch, Search Algorithms
 * **Testing:** JUnit, Mockito
 * **API Development:** External API, REST APIs
 * **Other Tools & Concepts:** ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization, Apache PDFBox
+  
 ### My Open Source Projects
 * [**CorpX**](https://github.com/Ethiqque/CorporationX/tree/main) (Backend) - Social network for startup management and fundraising, enabling connection, sharing & collaboration
 * [**ElevateFi**](https://github.com/Ethiqque/ElevateFi) (FullStack) - A Comprehensive Financial Goal Management Platform 
