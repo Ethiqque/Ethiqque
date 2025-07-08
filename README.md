@@ -8,7 +8,11 @@ I am a Java / JavaScript FullStack Developer with 5 years of experience in micro
 
 ## My Projects
 
+<img width="400" alt="rivalfinder (4)" src="https://github.com/user-attachments/assets/61ee749f-2f7c-4b56-8990-a6e509edb901" />
+
 [**RivalFinder.cv**](https://www.rivalfinder.cv/) - AI Service in which you can enter a startup idea and it will give all competitors on this idea, analyze strengths and weaknesses, earnings, traffic, etc.
+
+<img width="400" alt="456495969-6eff140e-0af7-4cd3-a8db-8233ba2bf2fa" src="https://github.com/user-attachments/assets/04164e75-ff47-4ccd-95c9-9709d1b544c9" />
 
 [**LinkedBoostAI.xyz**](https://www.linkedboostai.xyz/) - AI Service that improves your resume & gives guides for job search
 
